@@ -15,6 +15,10 @@ extension File2 {
 	private func toto() {
 		print("toto func")
 	}
+
+	private func titi() {
+		print("titi")
+	}
 	
 }
 
