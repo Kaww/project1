@@ -9,3 +9,11 @@ var name: String = "Kaww"
 var age: Int = 22
 var size: Double = 1.750 // in m
 }
+
+extension File2 {
+
+	private func toto() {
+		print("toto func")
+	}
+	
+}
