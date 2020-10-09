@@ -7,5 +7,5 @@ var id: String = "FILE2_ID"
 
 var name: String = "Kaww"
 var age: Int = 22
-var size: Double = 1.75 // in m
+var size: Double = 1.750 // in m
 }
