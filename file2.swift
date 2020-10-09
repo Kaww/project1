@@ -16,7 +16,7 @@ extension File2 {
 		print("toto func")
 	}
 
-	private func titi() {
+	private func tata() {
 		print("titi")
 	}
 	
