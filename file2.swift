@@ -7,5 +7,5 @@ var id: String = "FILE2_ID_toto"
 
 var name: String = "Kaww"
 var age: Int = 22
-
+var size: Double = 1.750 // in m
 }
