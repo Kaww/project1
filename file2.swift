@@ -27,6 +27,6 @@ extension File2 {
 
 // A -- B
 
-struct hello {
+struct helloStruct {
     
 }
