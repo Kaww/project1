@@ -26,3 +26,7 @@ extension File2 {
 // hello stash 2
 
 // A -- B
+
+struct hello {
+    
+}
